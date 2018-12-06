@@ -28,6 +28,8 @@ For Windows users, click [here](https://github.com/tesseract-ocr/tesseract/wiki/
 
 Run the code with: `python fortnite.py`
 
+Kill the program with: control-c
+
 The code wont do much unless you tell it to. Some prior programming expierence is needed. Go over the code and look at the comments I have left and that will help you get started.
 
 ## Notes
