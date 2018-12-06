@@ -3,6 +3,7 @@
 #hrcyber.tech
 
 #Fortnite health monitor
+#IMPORTANT -- Kill the program with control-c!!!
 
 #import statements
 import numpy as np
