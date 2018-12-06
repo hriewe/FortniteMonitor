@@ -23,6 +23,7 @@ Install the needed modules with:
 You will need to download the Tesseract OCR engine for the code to run. On Mac, run `brew install tesseract`
 
 For Windows users, click [here](https://github.com/tesseract-ocr/tesseract/wiki/Downloads) to download.
+Don't forget to add the Tesseract path to your system PATH.
 
 ## How to run
 
