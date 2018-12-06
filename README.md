@@ -1,5 +1,5 @@
 # FortniteMonitor
-Doing 'x' everytime you 'y' in fortnite!
+Doing 'x' everytime you 'y' in Fortnite!
 
 This code uses the python opencv library and the Tesseract OCR engine to monitor your health in the popular video game 'Fortnite'.
 
