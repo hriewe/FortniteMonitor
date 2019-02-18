@@ -24,7 +24,7 @@ while True:
   #Convert the image to numpy array
   img_np = np.array(img)
 
-  #This converts the image from BGR to RGB. On my PC this help the tesseract image
+  #This converts the image from BGR to RGB. On my PC this helps the tesseract engine.
   #If tesseract is not picking up your health, change this to cv2.COLOR_BGR2GRAY
   frame = cv2.cvtColor(img_np, cv2.COLOR_BGR2RGB)
   
